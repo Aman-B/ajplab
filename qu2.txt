@@ -1,7 +1,0 @@
-wap
-1. complete login application. User should be able to enter his/her credentials for authentication. The username should consist
-of atleast one symbol and one number. The password field should be marked with either star or dot. There should be a provision for
-the user to register with  the application. If the user already exists, then retreive data based on the query if not display an error
-message.
-The program has to be implemented to keep track of students, faculty and admins.
-The privileges given for each type of user should vary based on their designation.
