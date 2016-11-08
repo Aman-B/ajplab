@@ -1,0 +1,12 @@
+1.wap to demo the use of multiple inheritence and method overloading._/
+2. wap to exception handling.
+3. wapt multithreading._/
+4. file handling ops.
+5. define a class employee with the following properties: -/
+	1. every emp has name and salary.
+	2. the constructor creates an emp with a name and an initial salary. The method SalaryChange(amt) will inc or desc
+	   the salary by the specified amt.
+	3. The quit() will set salary to 0.
+	4. The method getInfo() will return the current salary of the emp.
+	5. Wap lets user to create emp objects and adjusts their salary by raises or pay cuts. After, each user command the
+	   program must print the current salary of the emp.

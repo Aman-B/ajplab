@@ -1,0 +1,5 @@
+Develop an app, for a bank the user will have the provision to register the application, once registered and approved by the admin
+the user should be able to login using the credentials. Consider scenario of not less than ten users and each should be able to see
+their balance. In case of any transaction made to any other acc, show the current balance in the acc after the transaction.
+The admin should have the provision to freeze any acc, in case of any emergencies. The  user should have a provision to see
+their transactions, based on the selected date.
